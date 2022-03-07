@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/joviamorim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joviamorim&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joviamorim&layout=compact&langs_count=6&theme=monokai"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=joviamorim&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joviamorim&layout=compact&langs_count=6&theme=monokai"/>
 </div>
   
 <div>
